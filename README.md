@@ -1,15 +1,12 @@
-### Hi there 👋
-
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Yen</h1>
+<h3 align="center">just a somebuddy here</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yendigo&label=Profile%20views&color=0e75b6&style=flat" alt="yendigo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yendigo" alt="yendigo" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yen gestrude l. sangalang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yen gestrude l. sangalang" height="30" width="40" /></a>
-<a href="https://fb.com/yen gestrude loyzaga sangalang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yen gestrude loyzaga sangalang" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yen-gestrude-l-sangalang-944569223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yen-gestrude-l-sangalang-944569223/" height="30" width="40" /></a>
+<a href="https://fb.com/cakehol3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cakehol3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
