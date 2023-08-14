@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yen</h1>
-<h3 align="center">just a somebuddy here</h3>
+<h1 align="center">Yen + indigo = yendigo</h1>
+<h3 align="center">'di ko naman favorite indigo eh. Wala lang, pangpafancy lang eyy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yendigo&label=Profile%20views&color=0e75b6&style=flat" alt="yendigo" /> </p>
 
